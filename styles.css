@@ -1,0 +1,47 @@
+
+h1{
+    color: rgb(237, 216, 100);
+}
+
+
+h2{
+    color: brown;
+}
+
+h3 {
+    color: cadetblue;
+}
+
+h4{
+    color: chocolate;
+}
+.purple-text{
+    color: purple;
+}
+
+p {
+    color: black;
+ }
+
+ #info-section{
+    /* color: rgba(0, 0, 255, 0.344); */
+    background-color: aliceblue;
+    display: inline; 
+ } 
+
+ .gold-text{
+    color: gold;
+ }
+
+ .silver-text{
+    color: silver;
+ }
+
+ .bronze-text{
+    color: #CD7F32;
+ }
+
+ img {
+    max-width: 100%;
+    height: auto;
+ }
